@@ -6,8 +6,6 @@ disqus: hackmd
 在CentOS7安裝與設定Nagios
 ===
 
-[TOC]
-
 ---
 ## Nagios Server端
 ### 下載必要程式
